@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1474576975 source:d:\fernando.neves\desktop\quiz finalmente\quiz_bolada1\main.cpp
+	<iostream>
+	<string>
+	"Quiz.h"
+	<stdlib.h>
+	<locale.h>
+
+1474463853 source:d:\fernando.neves\desktop\quiz finalmente\quiz_bolada1\quiz.cpp
+	<iostream>
+	<string>
+	"Quiz.h"
+
+1474579926 d:\fernando.neves\desktop\quiz finalmente\quiz_bolada1\quiz.h
+	<iostream>
+	<string>
+
+1474576976 source:f:\quiz finalmente\quiz_bolada1\main.cpp
+	<iostream>
+	<string>
+	"Quiz.h"
+	<stdlib.h>
+	<locale.h>
+
+1474579928 f:\quiz finalmente\quiz_bolada1\quiz.h
+	<iostream>
+	<string>
+
+1474579926 source:f:\quiz finalmente\quiz_bolada1\quiz.cpp
+	<iostream>
+	<string>
+	"Quiz.h"
+
